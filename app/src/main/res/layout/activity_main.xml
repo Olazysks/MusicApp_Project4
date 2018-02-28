@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.android.musicapp_project4.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:elevation="@dimen/elevation"
+            android:src="@drawable/well_played1" />
+
+        <TextView
+            android:id="@+id/channel_1"
+            style="@style/ChannelStyle"
+            android:background="?selectableItemBackground"
+            android:text="@string/channel_1" />
+
+        <TextView
+            android:id="@+id/channel_2"
+            style="@style/ChannelStyle"
+            android:background="?selectableItemBackground"
+            android:text="@string/channel_2" />
+
+        <TextView
+            android:id="@+id/channel_3"
+            style="@style/ChannelStyle"
+            android:background="?selectableItemBackground"
+            android:text="@string/channel_3" />
+
+        <TextView
+            android:id="@+id/channel_4"
+            style="@style/ChannelStyle"
+            android:background="?selectableItemBackground"
+            android:text="@string/channel_4" />
+    </LinearLayout>
+</ScrollView>

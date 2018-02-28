@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">MusicApp_Project4</string>
+
+    <!-- Names of channels -->
+    <string name="channel_1">😀 Happy</string>
+    <string name="channel_2">😥 Sad</string>
+    <string name="channel_3">🎉 Party</string>
+    <string name="channel_4">👴🏻 Oldies</string>
+    <!-- Songs list for channel 1 -->
+    <string name="name1_1">Happy</string>
+    <string name="author1_1">Pharrell Williams</string>
+    <string name="name2_1">Uptown Funk</string>
+    <string name="author2_1">Bruno Mars</string>
+    <string name="name3_1">Hooked on a Feeling</string>
+    <string name="author3_1">Blue Swede</string>
+    <string name="name4_1">I Got You (I Feel Good)</string>
+    <string name="author4_1">James Brown</string>
+    <string name="name5_1">Don\'t Stop Me Now</string>
+    <string name="author5_1">Queen</string>
+    <string name="name6_1">I Believe in a Thing Called Love</string>
+    <string name="author6_1">The Darkness</string>
+    <string name="name7_1">I Wanna Dance With Somebody</string>
+    <string name="author7_1">Whitney Houston</string>
+    <string name="name8_1">Africa</string>
+    <string name="author8_1">Toto</string>
+    <string name="name9_1">All About That Bass</string>
+    <string name="author9_1">Meghan Trainor</string>
+    <string name="name10_1">Karma Chameleon</string>
+    <string name="author10_1">Culture Club</string>
+    <!-- Songs list for channel 2 -->
+    <string name="name1_2">Hometown Glory</string>
+    <string name="author1_2">Adele</string>
+    <string name="name2_2">My Immortal</string>
+    <string name="author2_2">Evanescence</string>
+    <string name="name3_2">Apologize</string>
+    <string name="author3_2">OneRepublic</string>
+    <string name="name4_2">I Will Always Love You</string>
+    <string name="author4_2">Whitney Houston</string>
+    <string name="name5_2">Time to Say Goodbye</string>
+    <string name="author5_2">Andrea Bocelli and Sarah Brightman</string>
+    <string name="name6_2">Hallelujah</string>
+    <string name="author6_2">Leonard Cohen</string>
+    <string name="name7_2">Back to Black</string>
+    <string name="author7_2">Amy Winehouse</string>
+    <string name="name8_2">May it Be</string>
+    <string name="author8_2">Enya</string>
+    <string name="name9_2">Skinny Love</string>
+    <string name="author9_2">Birdy</string>
+    <string name="name10_2">Somebody That I Used to Know</string>
+    <string name="author10_2">Gotye</string>
+    <!-- Songs list for channel 3 -->
+    <string name="name1_3">Don\'t Stop \’Til You Get Enough</string>
+    <string name="author1_3">Michael Jackson</string>
+    <string name="name2_3">Single Ladies (Put a Ring on It)</string>
+    <string name="author2_3">Beyoncé</string>
+    <string name="name3_3">Hey Ya</string>
+    <string name="author3_3">Outkast</string>
+    <string name="name4_3">All Night Long (All Night)</string>
+    <string name="author4_3">Lionel Richie</string>
+    <string name="name5_3">I Wanna Dance With Somebody</string>
+    <string name="author5_3">Whitney Houston</string>
+    <string name="name6_3">Let’s Dance</string>
+    <string name="author6_3">David Bowie</string>
+    <string name="name7_3">Footloose</string>
+    <string name="author7_3">Kenny Loggins</string>
+    <string name="name8_3">YMCA</string>
+    <string name="author8_3">Willage People</string>
+    <string name="name9_3">Grease</string>
+    <string name="author9_3">Time of my Life</string>
+    <string name="name10_3">Wake Me Up Before You Go-Go</string>
+    <string name="author10_3">Wham!</string>
+    <!-- Songs list for channel 4 -->
+    <string name="name1_4">Lollipop</string>
+    <string name="author1_4">Chordettes</string>
+    <string name="name2_4">My First My Last My Everything</string>
+    <string name="author2_4">Barry White</string>
+    <string name="name3_4">Take On Me</string>
+    <string name="author3_4">a-ha</string>
+    <string name="name4_4">The Twist</string>
+    <string name="author4_4">Chubby Checker</string>
+    <string name="name5_4">Que Sera Sera</string>
+    <string name="author5_4">Doris Day</string>
+    <string name="name6_4">Mr Sandman</string>
+    <string name="author6_4">The Chordettes</string>
+    <string name="name7_4">Good Golly Miss Molly</string>
+    <string name="author7_4">Little Richard</string>
+    <string name="name8_4">Hound Dog</string>
+    <string name="author8_4">Gene Vincent</string>
+    <string name="name9_4">Ain\'t No Sunshine</string>
+    <string name="author9_4">Al Jarreau</string>
+    <string name="name10_4">Over the Rainbow</string>
+    <string name="author10_4">Ohio Players</string>
+</resources>
