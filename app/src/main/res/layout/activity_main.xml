@@ -41,5 +41,6 @@
             style="@style/ChannelStyle"
             android:background="?selectableItemBackground"
             android:text="@string/channel_4" />
+
     </LinearLayout>
 </ScrollView>

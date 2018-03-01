@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="padding_channel">24dp</dimen>
-    <dimen name="padding_song">24dp</dimen>
+    <dimen name="padding_song">16dp</dimen>
     <dimen name="elevation">24dp</dimen>
 </resources>

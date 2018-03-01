@@ -2,21 +2,35 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:padding="@dimen/padding_song">
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
 
-    <TextView
-        android:id="@+id/name_text_view"
-        android:layout_width="match_parent"
+    <LinearLayout
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textStyle="bold"
-        tools:text="@string/name1_1" />
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_song">
 
-    <TextView
-        android:id="@+id/author_text_view"
-        android:layout_width="match_parent"
+        <TextView
+            android:id="@+id/name_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            tools:text="@string/name1_1" />
+
+        <TextView
+            android:id="@+id/author_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="@string/author1_1" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        tools:text="@string/author1_1" />
+        android:layout_gravity="center_vertical"
+        android:layout_margin="@dimen/padding_song"
+        android:src="@android:drawable/ic_media_play" />
 
 </LinearLayout>

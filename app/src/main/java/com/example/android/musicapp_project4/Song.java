@@ -1,5 +1,7 @@
 package com.example.android.musicapp_project4;
 
+import android.media.Image;
+
 /**
  * {@Link Song} represents a single song.
  * It contains name of the song and song's author.
@@ -37,4 +39,5 @@ public class Song {
     public String getAuthor() {
         return mAuthor;
     }
+
 }
